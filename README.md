@@ -1,3 +1,3 @@
 # UnitTesting-Swift
 In this one I'm just giving a breif introduction about unit testing in iOS using Swift and I've just created a simple class with some Math functions to be able to go through the process and test these functionalities, For any further details kindly check the video below...
-[![Introduction to Unit Testing](https://user-images.githubusercontent.com/26345314/154062231-7f2be2d8-26e7-4a3a-a696-ad3b284011fd.png)](https://www.youtube.com/watch?v=OyHEpByT4XU "Introduction to Unit Testing")
+[![Introduction to Unit Testing](https://user-images.githubusercontent.com/26345314/154076128-2c6725cf-a12f-4334-a8e4-d188a0662bf6.png)](https://youtu.be/-fGdNcG26a8 "Introduction to Unit Testing")
